@@ -144,8 +144,8 @@ def plot_small_black_hole(ax, R_s_km, use_au):
             ("Eros (asteroid)", EROS_RADIUS_KM),
             ("Neutron star (typical radius)", NEUTRON_STAR_RADIUS_KM),
             ("Enceladus (moon of Saturn)", ENCELADUS_RADIUS_KM),
-            ("Vesta (asteroid)", 263),  # ~263 km
-            ("Ceres (dwarf planet)", 470),  # ~470 km
+            ("Vesta (asteroid)", VESTA_RADIUS_KM),  # ~263 km
+            ("Ceres (dwarf planet)", CERES_RADIUS_KM),  # ~470 km
             ("Moon (Earth's moon)", MOON_RADIUS_KM),
             ("Earth (radius)", EARTH_RADIUS_KM),
         ]
