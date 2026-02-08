@@ -1,0 +1,19 @@
+# AstroDataAnalysis — draft dependencies
+# Install with: pip install -r requirements.txt
+
+# Core scientific stack
+numpy>=1.20
+matplotlib>=3.5
+scipy>=1.7
+
+# Environment and API
+python-dotenv>=1.0
+
+# LLM / API (for LiteLLM-based notebooks)
+litellm>=1.0
+requests>=2.28
+
+# Optional: used in some exercises (e.g. embeddings, local DB)
+# chromadb
+# sentence-transformers
+# tqdm
