@@ -9,6 +9,9 @@ scipy>=1.7
 # Environment and API
 python-dotenv>=1.0
 
+# Extensions
+skyfield>=1.54
+
 # LLM / API (for LiteLLM-based notebooks)
 litellm>=1.0
 requests>=2.28

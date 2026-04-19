@@ -2,6 +2,13 @@
 
 Repository for introductory astronomy data analysis: Jupyter notebooks, exercises, and supporting materials.
 
+These materials are based on the online textbook [Coding Essentials for Astronomers](https://tingyuansen.github.io/coding_essential_for_astronomers/index.html) by Prof. Yuan-Sen Ting of The Ohio State University. 
+
+```
+Ting, Y.-S. (2025). Coding Essentials for Astronomers. The Ohio State University. 
+DOI: 10.5281/zenodo.17850426
+```
+
 ## Structure
 
 - **Exercises/** — Jupyter notebooks, image assets, and local environment file (`.env`). Run notebooks from this directory so paths to data and images resolve correctly.
@@ -33,4 +40,4 @@ Or open `Exercises/` in JupyterLab / VS Code and run the notebooks there.
 
 ## License
 
-See course or institutional guidelines.
+These materials are made available for education purposes. Many of the code examples are from [Coding Essentials for Astronomers](https://tingyuansen.github.io/coding_essential_for_astronomers/index.html). Please refer to that textbook for further license information.
