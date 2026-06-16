@@ -1,0 +1,22 @@
+# Exercises
+
+- Class 2: Setup and Python basics
+- Class 3: Logic and data structures
+- Class 4: Control flow and file operations
+- Class 5: NumPy
+- Class 6: Functions, modules and classes
+- Class 7: Visualization with matplotlib
+- Class 8: Cursor IDE
+- Class 9: LLM API basics
+- Class 10: LLM function tools and RAG
+- Class 11: Black holes
+- Class 15: Pandas basics
+- Class 18: Astropy and astroquery
+- Class 19: Time, observation planning, and FITS
+- Class 22: SkyField ephemerides
+- Class 24: SciPy interpolation, differentiation, and integration
+- Class 25: SciPy random variables and measurement uncertainty
+- Class 27: SciPy model fitting
+- Class 30: Exoplanet transit time series fitting
+- Class 33: Image fitting and photometry
+- Class 36: Spectroscopic fitting and equivalent widths
