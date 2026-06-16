@@ -11,7 +11,7 @@ DOI: 10.5281/zenodo.17850426
 
 ## Structure
 
-- **Exercises/** — Jupyter notebooks, image assets, and local environment file (`.env`). Run notebooks from this directory so paths to data and images resolve correctly.
+- **[Exercises/](Exercises/)** — Jupyter notebooks, image assets, and local environment file (`.env`). Run notebooks from this directory so paths to data and images resolve correctly. See the [Exercises README](Exercises/README.md) for a list of class notebooks.
 - **Root** — Project-level config: `README.md`, `requirements.txt`, `.gitignore`.
 
 ## Setup
